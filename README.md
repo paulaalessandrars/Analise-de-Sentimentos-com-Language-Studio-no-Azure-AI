@@ -35,7 +35,7 @@ Após criar o recurso, vamos acessar o **Azure Language Studio**:
 
 O teste realizado foi a análise de sentimentos de um texto. Utilizando o **Language Studio**, inserimos um texto e rodamos a análise para determinar o **sentimento** associado (positivo, negativo ou neutro). O resultado foi um **JSON** detalhado com informações sobre o sentimento e as **frases-chave**.
 
-![Resultado da Análise de Sentimentos](assets\screenshots\testing.jpg)
+![Resultado da Análise de Sentimentos](assets/screenshots/testing.jpg)
 
 ---
 
@@ -44,8 +44,8 @@ O teste realizado foi a análise de sentimentos de um texto. Utilizando o **Lang
 Você pode acessar o resultado da análise em formato `JSON` clicando [aqui](assets/outputs/result.json).
 
 ![Resultado Obtido](assets/outputs/result1.png)
-![Resultado Obtido](assets\outputs\result2.png)
-![Resultado Obtido](assets\outputs\result3.png)
+![Resultado Obtido](assets/outputs/result2.png)
+![Resultado Obtido](assets/outputs/result3.png)
 
 A análise de sentimentos revelou que **89%** da avaliação foi **positiva**. Ou seja, o cliente teve uma experiência muito boa no restaurante. Além disso, a ferramenta destaca as **frases-chave** que ajudaram a chegar a essa conclusão.
 
