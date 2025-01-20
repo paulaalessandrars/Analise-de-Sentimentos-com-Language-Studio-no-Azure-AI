@@ -41,9 +41,9 @@ O teste realizado foi a análise de sentimentos de um texto. Utilizando o **Lang
 
 ### 🎯 **Resultados Obtidos**
 
-Você pode acessar o resultado da análise em formato `JSON` clicando [aqui](assets\outputs\result.json).
+Você pode acessar o resultado da análise em formato `JSON` clicando [aqui](assets/outputs/result.json).
 
-![Resultado Obtido](assets\outputs\result1.png)
+![Resultado Obtido](assets/outputs/result1.png)
 ![Resultado Obtido](assets\outputs\result2.png)
 ![Resultado Obtido](assets\outputs\result3.png)
 
