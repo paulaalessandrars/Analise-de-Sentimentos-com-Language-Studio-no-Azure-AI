@@ -47,7 +47,7 @@ Você pode acessar o resultado da análise em formato `JSON` clicando [aqui](ass
 ![Resultado Obtido](assets/outputs/result2.png)
 ![Resultado Obtido](assets/outputs/result3.png)
 
-A análise de sentimentos revelou que **89%** da avaliação foi **positiva**. Ou seja, o cliente teve uma experiência muito boa no restaurante. Além disso, a ferramenta destaca as **frases-chave** que ajudaram a chegar a essa conclusão.
+A análise de sentimentos revelou que **89%** da avaliação foi **positiva**. Ou seja, o cliente teve uma experiência muito boa no restaurante. Além disso, a ferramenta destaca as **frases-chave** que ajudaram a chegar a esse resultado.
 
 ---
 
